@@ -276,6 +276,7 @@ TARGET_COMMON_QTI_COMPONENTS := \
     bt \
     charging \
     media \
+    overlay \
     perf \
     telephony \
     vibrator \
